@@ -1,6 +1,3 @@
-# Save the generated README content into a Markdown file
-
-readme_content = """
 # Social Media Engagement Analytics with Python & Power BI
 
 ## Project Overview
