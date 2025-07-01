@@ -58,11 +58,4 @@ If the datasets had more granularity or linkages, the following analyses could b
 ## Final Thoughts
 
 This project demonstrates how combining technical skills in Python and Power BI with thoughtful analysis can generate actionable insights for social media strategy. From content format preferences to message effectiveness, the data helped surface patterns that can inform future decisions.
-"""
 
-# Save the content to a markdown file
-file_path = "/mnt/data/README.md"
-with open(file_path, "w") as f:
-    f.write(readme_content)
-
-file_path
